@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-first repository
+this is a test repository for practice and developing my git skills
